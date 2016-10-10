@@ -1,0 +1,1 @@
+*,*::after,*::before{box-sizing:border-box;margin:0;outline:0;padding:0;text-decoration:none}html,body{height:100%;width:100%}body{font-size:18px;font-weight:normal}my-app{align-items:center;background-color:#EEEEEE;display:flex;height:100%;justify-content:center;width:100%}my-app h1{font-size:3em}my-app h1 span{font-size:1.2em;color:red}
